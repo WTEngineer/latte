@@ -1,0 +1,11 @@
+fitz
+pillow
+pyqt5
+opencv-python
+threading
+numpy
+mediapipe
+onnx
+onnxruntime
+torch
+
